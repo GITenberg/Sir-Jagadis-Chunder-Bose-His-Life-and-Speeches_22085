@@ -16,6 +16,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/8388
     wikipedia: http://en.wikipedia.org/wiki/Jagdish_Chandra_Bose
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/22085#Sir-Jagadis-Chunder-Bose-His-Life-and-Speeches
 gutenberg_issued: '2007-07-16'
 gutenberg_type: Text
 identifiers:
